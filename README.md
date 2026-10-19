@@ -1,6 +1,6 @@
 # Hackatones
 
-Todo lo enviado a lablab.ai, una carpeta por entrega. Cada carpeta tiene:
+Todo lo enviado a lablab.ai, una carpeta por entrega. La guía completa de cada formulario está en [`HACKATHONES-LABLAB.md`](HACKATHONES-LABLAB.md). Cada carpeta tiene:
 
 - `textos/ENTREGA.md` — los campos del formulario (título, descripciones, categorías, tecnologías, enlaces) y las reseñas del jurado cuando las hay
 - `textos/entrega.json` — los mismos datos tal como los publica lablab
@@ -18,4 +18,4 @@ Los textos y archivos de las carpetas 01–04 se descargaron de las páginas pub
 
 Resultados y reseñas del jurado: [`RESULTADOS.md`](RESULTADOS.md).
 
-Pendiente: **Airlock** (Vultr: Agent Rush, cierra el 8 nov 2026). Sus textos preparados están en [`../HACKATHONES-LABLAB.md`](../HACKATHONES-LABLAB.md).
+Pendiente: **Airlock** (Vultr: Agent Rush, cierra el 8 nov 2026). Sus textos preparados están en [`HACKATHONES-LABLAB.md`](HACKATHONES-LABLAB.md).
