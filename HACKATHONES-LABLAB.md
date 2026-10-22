@@ -481,5 +481,5 @@ WORTH A LOOK IN THE CODE
 Also submitted to the AMD Developer Hackathon: ACT III.
 ```
 
-> **Pendiente de añadir en lablab (22 oct):** pegar al principio de este campo la línea
+> ✅ **Añadido en lablab el 22 oct** al principio de este campo:
 > `LIVE DEMO (no GPU needed, runs in the browser with sample contracts): https://yanerox69.github.io/docuswarm/`
