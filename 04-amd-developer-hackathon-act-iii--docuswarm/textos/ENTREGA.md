@@ -54,6 +54,8 @@ Repo: https://github.com/yanerox69/docuswarm
 - **Demo Platform:** OTHER
 - **Demo URL:** http://129.212.188.131:3000
 
+> **Después del cierre (22 oct 2026):** la IP ya no responde. Hay una demo pública en GitHub Pages que funciona sin GPU: https://yanerox69.github.io/docuswarm/ . Si lablab deja editar la entrega, sustituir la IP por esa URL.
+
 ## Additional Information
 
 Este campo no se muestra en la página pública de lablab; es el texto que se preparó y pegó en el formulario.

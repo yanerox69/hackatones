@@ -125,9 +125,9 @@ la telemetría de concurrencia y el rendimiento medido en AMD lo hace *"una impl
 sólida y diferenciada"*.
 
 **Mi recomendación para la AMD AI League (cierra el 1 dic):**
-1. Añadir un archivo `LICENSE` (MIT) al repo: es un arreglo de un minuto que un juez marcó.
-2. La demo caída la mencionaron los dos jueces. Si no hay GPU, publicar al menos el modo *mock* en una URL HTTPS para que se pueda probar el panel.
-3. Añadir una tabla de rendimiento con 1x, 2x, 4x y 8x de concurrencia, y alguna medida de precisión sobre contratos de ejemplo.
+1. ✅ **Hecho (22 oct):** licencia MIT añadida al repo `docuswarm`.
+2. ✅ **Hecho (22 oct):** demo pública con HTTPS en https://yanerox69.github.io/docuswarm/ (modo demo en el navegador, sin GPU, con 8 contratos de ejemplo).
+3. ◐ **En parte (22 oct):** `backend/bench.py` y tabla 1x/2x/4x/8x en el README con el proveedor *mock* (8x = 6,0x más rápido que 1x). Falta repetirla en GPU y medir precisión.
 4. Para subir valor de negocio: mostrar la cláusula exacta (página y texto) que justifica cada alerta.
 
 ---

@@ -411,6 +411,7 @@ Repo: https://github.com/yanerox69/docuswarm
   ✅ Actualizado en lablab el 17 oct (campo del repo y última línea de la descripción larga).
 - **Demo Platform:** Other
 - **Demo URL:** http://129.212.188.131:3000 (la instancia MI300X ya está apagada)
+- **Demo pública (desde el 22 oct):** https://yanerox69.github.io/docuswarm/ — sin GPU, en el navegador. Usarla en lugar de la IP si lablab deja editar.
 
 **Additional Information**
 ```
@@ -479,3 +480,6 @@ WORTH A LOOK IN THE CODE
 
 Also submitted to the AMD Developer Hackathon: ACT III.
 ```
+
+> **Pendiente de añadir en lablab (22 oct):** pegar al principio de este campo la línea
+> `LIVE DEMO (no GPU needed, runs in the browser with sample contracts): https://yanerox69.github.io/docuswarm/`

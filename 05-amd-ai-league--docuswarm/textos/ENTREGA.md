@@ -59,6 +59,16 @@ WORTH A LOOK IN THE CODE
 Also submitted to the AMD Developer Hackathon: ACT III.
 ```
 
+## Demo pública
+
+**https://yanerox69.github.io/docuswarm/** — publicada el 22 de octubre de 2026 en GitHub Pages. Corre en el navegador, sin backend ni GPU, con 8 contratos de ejemplo y exportación CSV/JSON; un aviso en la página indica que las respuestas son simuladas. Captura: [`media/demo-publica.png`](../media/demo-publica.png).
+
+El formulario de la AI League no tiene campo de demo. Añadir esta línea al principio de **Additional Information**:
+
+```
+LIVE DEMO (no GPU needed, runs in the browser with sample contracts): https://yanerox69.github.io/docuswarm/
+```
+
 ## Media
 
 El formulario de la AI League no pide portada, video ni PDF. El material del proyecto es el mismo que se envió a ACT III: [`../04-amd-developer-hackathon-act-iii--docuswarm/media/`](../../04-amd-developer-hackathon-act-iii--docuswarm/media/)

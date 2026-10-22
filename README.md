@@ -16,6 +16,8 @@ Los textos y archivos de las carpetas 01–04 se descargaron de las páginas pub
 | 04 | AMD Developer Hackathon: ACT III | [DocuSwarm](04-amd-developer-hackathon-act-iii--docuswarm/textos/ENTREGA.md) | 12 oct 2026 | [docuswarm](https://github.com/yanerox69/docuswarm) | [ver](https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus) |
 | 05 | AMD AI League | [DocuSwarm](05-amd-ai-league--docuswarm/textos/ENTREGA.md) | 17 oct 2026 | [docuswarm](https://github.com/yanerox69/docuswarm) | — |
 
+Demo pública de DocuSwarm (sin GPU, en el navegador): https://yanerox69.github.io/docuswarm/
+
 Resultados y reseñas del jurado: [`RESULTADOS.md`](RESULTADOS.md).
 
 Pendiente: **Airlock** (Vultr: Agent Rush, cierra el 8 nov 2026). Sus textos preparados están en [`HACKATHONES-LABLAB.md`](HACKATHONES-LABLAB.md).
