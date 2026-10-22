@@ -1,6 +1,6 @@
 # Resultados y recomendaciones del jurado
 
-Datos tomados de las páginas públicas de lablab el 19 de octubre de 2026.
+Datos tomados de las páginas públicas de lablab (última revisión: 22 de octubre de 2026).
 
 **Ganadores:** ninguno de los cuatro hackathones tiene ganadores publicados todavía
 (la lista `winners` de cada página de resultados está vacía). Las cuatro entregas
@@ -15,7 +15,7 @@ No es el veredicto del jurado, pero da una idea de visibilidad.
 | 01 | AssemblyAI — Voice Agent | RevenueFlow | **4,25 / 5** (2 jueces) | 79 de 200+ (157 pts) | 2 |
 | 02 | IBM Bob 2.0 | Issue → PR | **3,0 / 5** (2 jueces) | fuera del top 200 | 0 |
 | 03 | WeAreDevelopers × BAND | Dark Factory | sin nota numérica (4 jueces, 2 con comentario) | **14** de 200 (165 pts) | 6 |
-| 04 | AMD Developer Hackathon: ACT III | DocuSwarm | todavía sin reseñas | 48 de 200 (165 pts) | 6 |
+| 04 | AMD Developer Hackathon: ACT III | DocuSwarm | **3,6 / 5** (2 jueces) | 48 de 200 (165 pts) | 6 |
 | 05 | AMD AI League | DocuSwarm | abierto hasta el 1 dic | — | — |
 
 ---
@@ -101,16 +101,34 @@ con más de 190 participantes.
 
 ## 04 · DocuSwarm — AMD Developer Hackathon: ACT III
 
-Sin reseñas todavía (el hackathon cerró el 18 de octubre). 6 likes, puesto 48 en la tabla de puntos.
+| Juez | Valor de negocio | Originalidad | Presentación | Uso de la tecnología |
+|---|---|---|---|---|
+| Juez 1 | 3 | 2 | 3 | 3 |
+| Juez 2 | 5 | 4 | 4 | 5 |
+| **Media** | **4,0** | **3,0** | **3,5** | **4,0** |
 
-**Riesgos previsibles, por lo aprendido en las otras reseñas:**
-1. **La demo no responde** (la GPU está apagada). Los jueces de RevenueFlow valoraron expresamente que la demo funcionara.
-2. **Originalidad:** "analizar contratos con un LLM" es una idea frecuente; el diferencial es el rendimiento en paralelo en AMD, y conviene que eso sea lo primero que se vea.
-3. **Evidencia reproducible:** el modo *mock* permite probarlo sin GPU; asegurarse de que el README lo explique en las primeras líneas.
+**Juez 1 (el más duro):** buena forma de mostrar el rendimiento de la GPU AMD (agentes
+asíncronos, hasta 20 contratos contra un solo endpoint vLLM, panel en vivo, exportación
+Excel/JSON). Debilidades: **no hay archivo de licencia**, **la demo es una IP en HTTP**, y
+las herramientas de revisión de riesgo en documentos son una categoría saturada con poco
+nuevo. Mejoraría con cifras de precisión o de rendimiento. Aclara que no ejecutó el código
+ni vio el video.
+
+**Juez 2 (el más favorable):** el proyecto encaja muy bien con el reto de AMD y convierte el
+rendimiento de la GPU en una función visible del producto, no en una dependencia de fondo.
+El resultado en la MI300X (6 documentos en 1,5 s a 1.653,9 tokens/s) es evidencia concreta
+de hardware, y el diseño compatible con OpenAI hace práctico el despliegue. **La demo por IP
+no respondió durante la revisión**, así que no pudo probar el panel. Para uso real en
+empresas faltarían citas a la fuente, evidencia por página, validación de la extracción y
+controles de revisión legal. Concluye que centrar el proyecto en el *continuous batching*,
+la telemetría de concurrencia y el rendimiento medido en AMD lo hace *"una implementación
+sólida y diferenciada"*.
 
 **Mi recomendación para la AMD AI League (cierra el 1 dic):**
-- Añadir una tabla de rendimiento con 1x, 2x, 4x y 8x de concurrencia medida en la MI300X: es la prueba de que la GPU importa.
-- Si consigues créditos de nuevo, dejar la demo encendida durante la evaluación.
+1. Añadir un archivo `LICENSE` (MIT) al repo: es un arreglo de un minuto que un juez marcó.
+2. La demo caída la mencionaron los dos jueces. Si no hay GPU, publicar al menos el modo *mock* en una URL HTTPS para que se pueda probar el panel.
+3. Añadir una tabla de rendimiento con 1x, 2x, 4x y 8x de concurrencia, y alguna medida de precisión sobre contratos de ejemplo.
+4. Para subir valor de negocio: mostrar la cláusula exacta (página y texto) que justifica cada alerta.
 
 ---
 
@@ -120,7 +138,7 @@ Sin reseñas todavía (el hackathon cerró el 18 de octubre). 6 likes, puesto 48
 |---|---|
 | Garantías aplicadas en el código, no prometidas | Ideas que el jurado ya ha visto |
 | Medición honesta, incluidos los fallos | Afirmaciones sin fuente (cifras de mercado) |
-| Demo en vivo que funciona | Demo caída o que necesita humano |
+| Demo en vivo que funciona | Demo caída o que necesita humano (2 de 4 proyectos) |
 | Tests y métricas concretas | Contradicciones entre el discurso y el código |
 
 **Para Airlock y lo que venga:** abrir con el problema de negocio, mantener la demo
