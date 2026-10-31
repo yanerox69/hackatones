@@ -1,10 +1,14 @@
 # Resultados y recomendaciones del jurado
 
-Datos tomados de las páginas públicas de lablab (última revisión: 22 de octubre de 2026).
+Datos tomados de las páginas públicas de lablab (última revisión: 31 de octubre de 2026).
 
-**Ganadores:** ninguno de los cuatro hackathones tiene ganadores publicados todavía
-(la lista `winners` de cada página de resultados está vacía). Las cuatro entregas
-figuran como `OTHER`, es decir, sin puesto asignado por ahora.
+**Ganadores (31 oct 2026):** publicados en AssemblyAI e IBM Bob 2.0. Ninguna de tus
+entregas está entre ellos. Dark Factory y AMD ACT III siguen sin ganadores publicados.
+
+| Hackathon | Ganadores |
+|---|---|
+| AssemblyAI — Voice Agent (5 premios iguales: $1.000 + $1.000 en créditos) | **Concierge** (SoloRobot) · **ClauseCatcher** · **Muninn** (High Entropy) · **Beacon Night Shift** (CoffeAndCode) · **WorkerSaathi** (Runtime Terror) |
+| IBM Bob 2.0 | 🥇 **Amend: Regulatory Redlines In, Verified PRs Out** (Diff & Conquer) · 🥈 **Inbin Gate** (Inbin) · 🥉 **SoloTrace** (SoloTrace) |
 
 **Clasificación por puntos:** la página *Results* de cada hackathon muestra una
 tabla de puntos por participante (actividad en el evento: entrega, likes, reseñas).
@@ -15,7 +19,7 @@ No es el veredicto del jurado, pero da una idea de visibilidad.
 | 01 | AssemblyAI — Voice Agent | RevenueFlow | **4,25 / 5** (2 jueces) | 79 de 200+ (157 pts) | 2 |
 | 02 | IBM Bob 2.0 | Issue → PR | **3,0 / 5** (2 jueces) | fuera del top 200 | 0 |
 | 03 | WeAreDevelopers × BAND | Dark Factory | sin nota numérica (4 jueces, 2 con comentario) | **14** de 200 (165 pts) | 6 |
-| 04 | AMD Developer Hackathon: ACT III | DocuSwarm | **3,6 / 5** (2 jueces) | 48 de 200 (165 pts) | 6 |
+| 04 | AMD Developer Hackathon: ACT III | DocuSwarm | **3,5 / 5** (3 jueces) | 48 de 200 (165 pts) | 6 |
 | 05 | AMD AI League | DocuSwarm | abierto hasta el 1 dic | — | — |
 
 ---
@@ -105,7 +109,8 @@ con más de 190 participantes.
 |---|---|---|---|---|
 | Juez 1 | 3 | 2 | 3 | 3 |
 | Juez 2 | 5 | 4 | 4 | 5 |
-| **Media** | **4,0** | **3,0** | **3,5** | **4,0** |
+| Juez 3 (sin comentario) | 3 | 4 | 3 | 3 |
+| **Media** | **3,7** | **3,3** | **3,3** | **3,7** |
 
 **Juez 1 (el más duro):** buena forma de mostrar el rendimiento de la GPU AMD (agentes
 asíncronos, hasta 20 contratos contra un solo endpoint vLLM, panel en vivo, exportación
