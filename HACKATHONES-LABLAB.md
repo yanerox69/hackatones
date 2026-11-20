@@ -10,7 +10,7 @@ El formulario de lablab tiene 3 pasos:
 2. **Media** — Cover Image, Video Presentation, Slide Presentation (PDF)
 3. **Application** — GitHub Repository, Demo Platform, Demo URL, Additional Information
 
-Según tu página *My Teams* de lablab (lablab.ai/profile/my-teams), tienes **6 equipos**:
+Según tu página *My Teams* de lablab (lablab.build/profile/my-teams), tienes **6 equipos**:
 
 | # | Hackathon | Equipo en lablab | Proyecto | Cierre | Estado |
 |---|---|---|---|---|---|
