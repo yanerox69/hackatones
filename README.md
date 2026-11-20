@@ -1,6 +1,6 @@
 # Hackatones
 
-Todo lo enviado a lablab.ai, una carpeta por entrega. La guía completa de cada formulario está en [`HACKATHONES-LABLAB.md`](HACKATHONES-LABLAB.md). Cada carpeta tiene:
+Todo lo enviado a lablab (antes lablab.ai, ahora **lablab.build**: el dominio viejo redirige a otra web desde noviembre de 2026), una carpeta por entrega. La guía completa de cada formulario está en [`HACKATHONES-LABLAB.md`](HACKATHONES-LABLAB.md). Cada carpeta tiene:
 
 - `textos/ENTREGA.md` — los campos del formulario (título, descripciones, categorías, tecnologías, enlaces) y las reseñas del jurado cuando las hay
 - `textos/entrega.json` — los mismos datos tal como los publica lablab
@@ -10,11 +10,11 @@ Los textos y archivos de las carpetas 01–04 se descargaron de las páginas pub
 
 | # | Hackathon | Proyecto | Enviado | Repositorio | Página en lablab |
 |---|---|---|---|---|---|
-| 01 | AssemblyAI — Voice Agent Hackathon | [RevenueFlow](01-assemblyai-voice-agent--revenueflow/textos/ENTREGA.md) | 10 sep 2026 | [revenueflow-ai](https://github.com/yanerox69/revenueflow-ai) | [ver](https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon/revenueflow/revenueflow-whatsapp-voice-receptionist) |
-| 02 | IBM Bob 2.0 Hackathon | [Issue → PR](02-ibm-bob-2.0--issue-to-pr/textos/ENTREGA.md) | 25 sep 2026 | [issue-to-pr-bob](https://github.com/yanerox69/issue-to-pr-bob) | [ver](https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon/yanero-rockstar/issue-pr-bug-reports-to-tested-prs-with-ibm-bob) |
-| 03 | WeAreDevelopers × BAND — Dark Factory | [Dark Factory](03-wearedevelopers-band--dark-factory/textos/ENTREGA.md) | 28 sep 2026 | [dark-factory-pocketful](https://github.com/yanerox69/dark-factory-pocketful) | [ver](https://lablab.ai/ai-hackathons/wearedevelopers-hackathon/revenueflow/dark-factory-the-band-that-refuses-its-own-work) |
-| 04 | AMD Developer Hackathon: ACT III | [DocuSwarm](04-amd-developer-hackathon-act-iii--docuswarm/textos/ENTREGA.md) | 12 oct 2026 | [docuswarm](https://github.com/yanerox69/docuswarm) | [ver](https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus) |
-| 05 | AMD AI League | [DocuSwarm](05-amd-ai-league--docuswarm/textos/ENTREGA.md) | 17 oct 2026 | [docuswarm](https://github.com/yanerox69/docuswarm) | — |
+| 01 | AssemblyAI — Voice Agent Hackathon | [RevenueFlow](01-assemblyai-voice-agent--revenueflow/textos/ENTREGA.md) | 10 sep 2026 | [revenueflow-ai](https://github.com/yanerox69/revenueflow-ai) | [ver](https://lablab.build/ai-hackathons/assemblyai-voice-agent-hackathon/revenueflow/revenueflow-whatsapp-voice-receptionist) |
+| 02 | IBM Bob 2.0 Hackathon | [Issue → PR](02-ibm-bob-2.0--issue-to-pr/textos/ENTREGA.md) | 25 sep 2026 | [issue-to-pr-bob](https://github.com/yanerox69/issue-to-pr-bob) | [ver](https://lablab.build/ai-hackathons/ibm-bob-2-hackathon/yanero-rockstar/issue-pr-bug-reports-to-tested-prs-with-ibm-bob) |
+| 03 | WeAreDevelopers × BAND — Dark Factory | [Dark Factory](03-wearedevelopers-band--dark-factory/textos/ENTREGA.md) | 28 sep 2026 | [dark-factory-pocketful](https://github.com/yanerox69/dark-factory-pocketful) | [ver](https://lablab.build/ai-hackathons/wearedevelopers-hackathon/revenueflow/dark-factory-the-band-that-refuses-its-own-work) |
+| 04 | AMD Developer Hackathon: ACT III | [DocuSwarm](04-amd-developer-hackathon-act-iii--docuswarm/textos/ENTREGA.md) | 12 oct 2026 | [docuswarm](https://github.com/yanerox69/docuswarm) | [ver](https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus) |
+| 05 | AMD AI League | [DocuSwarm](05-amd-ai-league--docuswarm/textos/ENTREGA.md) | 17 oct 2026 | [docuswarm](https://github.com/yanerox69/docuswarm) | [ver](https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus) |
 
 Demo pública de DocuSwarm (sin GPU, en el navegador): https://yanerox69.github.io/docuswarm/
 

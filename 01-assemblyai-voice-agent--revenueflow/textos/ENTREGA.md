@@ -3,7 +3,7 @@
 - **Hackathon:** AssemblyAI — Voice Agent Hackathon
 - **Equipo:** RevenueFlow
 - **Enviado:** 2026-09-10
-- **Página publicada:** https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon/revenueflow/revenueflow-whatsapp-voice-receptionist
+- **Página publicada:** https://lablab.build/ai-hackathons/assemblyai-voice-agent-hackathon/revenueflow/revenueflow-whatsapp-voice-receptionist
 
 ## Paso 1 — Basic Information
 

@@ -3,7 +3,7 @@
 - **Hackathon:** WeAreDevelopers × BAND present: Dark Factory (hackathon edition)
 - **Equipo:** Dark Factory
 - **Enviado:** 2026-09-28
-- **Página publicada:** https://lablab.ai/ai-hackathons/wearedevelopers-hackathon/revenueflow/dark-factory-the-band-that-refuses-its-own-work
+- **Página publicada:** https://lablab.build/ai-hackathons/wearedevelopers-hackathon/revenueflow/dark-factory-the-band-that-refuses-its-own-work
 
 ## Paso 1 — Basic Information
 

@@ -3,7 +3,7 @@
 - **Hackathon:** AMD Developer Hackathon: ACT III
 - **Equipo:** Yanero Rockstar
 - **Enviado:** 2026-10-12
-- **Página publicada:** https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus
+- **Página publicada:** https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus
 
 ## Paso 1 — Basic Information
 

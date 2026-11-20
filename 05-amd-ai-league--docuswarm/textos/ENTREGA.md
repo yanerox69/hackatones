@@ -6,6 +6,10 @@
 - **Proyecto:** DocuSwarm, el mismo enviado a ACT III (carpeta `04`). El formulario de la AI League es
   más corto: 2 pasos, sin descripción corta, sin media y sin URL de demo.
 
+## Estado (20 nov 2026)
+
+**Puesto 7** en la tabla de puntos del evento (159 puntos, 3 likes). El jurado está evaluando; aún no hay ganadores. Página de la entrega: https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus · Resultados: https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge/live
+
 ## Paso 1 — Basic Information
 
 **Submission Title**

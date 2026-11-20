@@ -28,7 +28,7 @@ Según tu página *My Teams* de lablab (lablab.ai/profile/my-teams), tienes **6 
 
 ## 1. RevenueFlow — AssemblyAI Voice Agent Hackathon
 
-- **Página:** https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon
+- **Página:** https://lablab.build/ai-hackathons/assemblyai-voice-agent-hackathon
 - **Premios:** $10.000 ($5k efectivo + $5k créditos)
 - **Enviado:** 10 de septiembre de 2026
 
@@ -180,7 +180,7 @@ Results per bug: RESULTS.md · Bob's patches and PRs: fixes/ · Bob session scre
 
 ## 3. Dark Factory — pocketful · WeAreDevelopers × BAND
 
-- **Página publicada de la entrega:** https://lablab.ai/ai-hackathons/wearedevelopers-hackathon/revenueflow/dark-factory-the-band-that-refuses-its-own-work
+- **Página publicada de la entrega:** https://lablab.build/ai-hackathons/wearedevelopers-hackathon/revenueflow/dark-factory-the-band-that-refuses-its-own-work
 - **Enviado:** 28 de septiembre de 2026 · **Equipo:** Dark Factory · **Pista:** 💸 pocketful (clon de Venmo)
 - **Premios del hackathon:** $6.000 en efectivo entre dos pistas + $300 en créditos Featherless
 - Los textos de abajo son **los que están publicados** en lablab (copiados de la página).
@@ -243,7 +243,7 @@ Take BAND out and this factory does not degrade. It disappears — the rejection
 
 ## 4. Airlock — Vultr: Agent Rush Hackathon
 
-- **Página:** https://lablab.ai/ai-hackathons/vultr-hackathon
+- **Página:** https://lablab.build/ai-hackathons/vultr-hackathon
 - **Reto:** *Blast Radius Zero: Safe Agent Execution on Vultr*
 - **Fase online:** 3–8 de noviembre de 2026 → **todavía no se puede enviar**
 - **Antes de pegar:** la inferencia tiene que salir por Vultr Serverless Inference,
@@ -350,9 +350,9 @@ Blast radius — zero.
 
 ## 5. DocuSwarm — AMD Developer Hackathon: ACT III
 
-- **Página:** https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii
-- **Página publicada de la entrega:** https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus
-- **Equipo:** Yanero Rockstar (https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar)
+- **Página:** https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii
+- **Página publicada de la entrega:** https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar/docuswarm-parallel-due-diligence-on-amd-gpus
+- **Equipo:** Yanero Rockstar (https://lablab.build/ai-hackathons/amd-developer-hackathon-act-iii/yanero-rockstar)
 - **Enviado:** 12 oct 2026 · actualizado el 15 y el 16 oct (se añadieron los *Event Tracks*)
 - **Código:** https://github.com/yanerox69/docuswarm (rama `main`)
 - Probado en vivo en una **AMD Instinct MI300X** (AMD Developer Cloud) con **vLLM + Qwen3-8B**

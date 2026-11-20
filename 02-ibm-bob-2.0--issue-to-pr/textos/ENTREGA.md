@@ -3,7 +3,7 @@
 - **Hackathon:** IBM Bob 2.0 Hackathon
 - **Equipo:** Yanero Rockstar
 - **Enviado:** 2026-09-25
-- **Página publicada:** https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon/yanero-rockstar/issue-pr-bug-reports-to-tested-prs-with-ibm-bob
+- **Página publicada:** https://lablab.build/ai-hackathons/ibm-bob-2-hackathon/yanero-rockstar/issue-pr-bug-reports-to-tested-prs-with-ibm-bob
 
 ## Paso 1 — Basic Information
 

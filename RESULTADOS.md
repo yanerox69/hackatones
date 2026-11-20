@@ -20,7 +20,7 @@ No es el veredicto del jurado, pero da una idea de visibilidad.
 | 02 | IBM Bob 2.0 | Issue → PR | **3,0 / 5** (2 jueces) | fuera del top 200 | 0 |
 | 03 | WeAreDevelopers × BAND | Dark Factory | sin nota numérica (4 jueces, 2 con comentario) | **14** de 200 (165 pts) | 6 |
 | 04 | AMD Developer Hackathon: ACT III | DocuSwarm | **3,5 / 5** (3 jueces) | 48 de 200 (165 pts) | 6 |
-| 05 | AMD AI League | DocuSwarm | abierto hasta el 1 dic | — | — |
+| 05 | AMD AI League | DocuSwarm | en evaluación | **7 de 200+** (159 pts) | 3 |
 
 ---
 
@@ -134,6 +134,29 @@ sólida y diferenciada"*.
 2. ✅ **Hecho (22 oct):** demo pública con HTTPS en https://yanerox69.github.io/docuswarm/ (modo demo en el navegador, sin GPU, con 8 contratos de ejemplo).
 3. ◐ **En parte (22 oct):** `backend/bench.py` y tabla 1x/2x/4x/8x en el README con el proveedor *mock* (8x = 6,0x más rápido que 1x). Falta repetirla en GPU y medir precisión.
 4. Para subir valor de negocio: mostrar la cláusula exacta (página y texto) que justifica cada alerta.
+
+---
+
+## 05 · DocuSwarm — AMD AI League
+
+Revisado el 20 de noviembre de 2026 en la [página de resultados](https://lablab.build/ai-hackathons/amd-lablab-ai-academy-challenge/live).
+
+- **Fase:** evaluación (*Judging*). Todavía no hay ganadores.
+- **Tabla de puntos del evento: puesto 7** (159 puntos, 3 likes). Mide la actividad de la
+  entrega, no el veredicto del jurado.
+- **Clasificación oficial de AMD:** tres categorías (*General-Purpose AI Agent*, *Video
+  Captioning* y *Unicorn (Open Innovation)*), todavía sin puntuaciones publicadas.
+
+| Puesto | Equipo | Proyecto | Puntos | Likes |
+|---|---|---|---|---|
+| 1 | rangers | CyberVoice AI | 193 | 20 |
+| 2 | TechFusion007 | EdgeShield AI | 169 | 8 |
+| 3 | AlgoForge | RoadLens AI | 169 | 8 |
+| 4 | aiinfraredchaliveret | Super-Infrared AUTO | 167 | 7 |
+| 5 | Sahariar-Dev | NeuralRoute AMD | 165 | 6 |
+| 6 | Team Nyctophile | NEXUS | 163 | 5 |
+| **7** | **Yanero Rockstar** | **DocuSwarm** | **159** | **3** |
+| 8 | Sovereign AI Labs | PlateSign OCR | 157 | — |
 
 ---
 
